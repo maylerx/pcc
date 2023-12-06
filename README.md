@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # ¿Qué es el Paisaje Cultural Cafetero?
 
 *El paisaje cultural, conjuga elementos naturales, económicos y sociales, que se expresan en una región con un alto grado de homogeneidad y que se constituyó como un caso excepcional en el mundo. Esto aunado a la fortaleza de la tradición cultural y generacional en torno al cultivo de café de alta montaña y a las características propias de procesos históricos de habitar y construir un Paisaje, alrededor de este cultivo.*
@@ -70,4 +66,6 @@ La conservación y recreación de actores y elementos culturales propios del PCC
 - Mitos: la Leyenda del Cacique Calarcá y la del Río La Vieja
 Bailes el juego de los macheteros. 
 - Música de cuerda, seguida de guitarra y tiple y por último el bambuco
+
+# Link de descarga de nuestra APP
 
